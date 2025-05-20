@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm diwang!
 
-<!--
-**ldqanh1408/ldqanh1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🎓 Studying at **Học Viện Công Nghệ Bưu Chính Viễn Thông (PTIT)**
+- 💻 My career path is Algorithm Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: C++, Python
+  
+---
+
+## 📊 ldqanh1408's GitHub Stats
+<!-- You can use GitHub readme stats generators like: https://github.com/anuraghazra/github-readme-stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight)
