@@ -21,15 +21,21 @@
 
 ## 📈 GitHub Stats
 
-<!-- GitHub stats card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight)
-
-<!-- GitHub streak stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=ldqanh1408&theme=tokyonight)
-
-<!-- Most used languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldqanh1408&layout=compact&theme=tokyonight)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ldqanh1408&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldqanh1408&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📫 Contact Me
