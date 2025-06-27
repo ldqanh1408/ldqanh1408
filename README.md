@@ -6,10 +6,8 @@
 
 ## 🧠 About Me
 - 🎓 Studying at **Học Viện Công Nghệ Bưu Chính Viễn Thông (PTIT)**
-- 💻 My career path is **Algorithm Engineer**
 - 🧠 Currently exploring **world**
-- 🏆 Dreaming of making it to the **ICPC World Final**
-- 🎯 Aiming to become **Red on Codeforces**
+
 
 ---
 
