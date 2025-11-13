@@ -1,6 +1,4 @@
-# 👋 Hello, I'm diwang!
 
-🚀 Aspiring Algorithm Engineer | Competitive Programmer | Lifelong Learner
 
 ---
 
