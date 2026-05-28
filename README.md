@@ -1,11 +1,20 @@
 <h1 align="center">Hi there, I'm Lê Đắc Quốc Anh! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00F2FE&center=true&vCenter=true&width=850&lines=Aspiring+Solution+Architect;Distributed+Systems+Expert;High-Concurrency+System+Designer;Cloud-Native+Infrastructure+Engineer" alt="Typing SVG 1" />
+  <!-- Engine 1: Core Software Engineering & Foundations (Cyan) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=800&color=00F2FE&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Driven+Problem+Solver;Algorithms+%26+Data+Structures+Enthusiast;Writing+Clean%2C+Maintainable+Code;Object-Oriented+Design+Practitioner;Continuous+Learner+%26+Tech+Explorer;Bridging+Math+With+Computer+Science;Crafting+Production-Grade+Solutions;Debugging+Complex+Distributed+Behaviors;Optimizing+Code+For+Maximum+Efficiency" alt="Typing SVG 1" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=7AA2F7&center=true&vCenter=true&width=850&lines=Mastering+CQRS+%26+Event+Sourcing;Executing+Saga+Distributed+Transactions;Optimizing+Low-Latency+Data+Pipelines;Tuning+High-Throughput+Load+Buffers" alt="Typing SVG 2" />
+  <!-- Engine 2: Backend Development & JVM Ecosystem (Blue) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=800&color=7AA2F7&center=true&vCenter=true&width=850&lines=Backend+Architecture+Enthusiast;Deep+Diving+Into+Enterprise+Java;Building+Reactive+Microservices;Asynchronous+Framework+Explorer;Developing+Robust+RESTful+APIs;Designing+Scalable+Server-Side+Logic;Managing+Complex+Application+States;Tuning+JVM+Performance+%26+Threads;Implementing+Secure+JWT+Authentication;Constructing+Decoupled+Ecosystems" alt="Typing SVG 2" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=50FA7B&center=true&vCenter=true&width=850&lines=Exploring+Multi-Agent+Orchestration;Implementing+Model+Context+Protocol+(MCP);Bridging+Algorithmic+Efficiency+With+Scale;Enforcing+Zero-Trust+System+Architectures" alt="Typing SVG 3" />
+  <!-- Engine 3: Distributed Systems & Data Engineering (Green) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=800&color=50FA7B&center=true&vCenter=true&width=850&lines=Distributed+Systems+Enthusiast;Exploring+Event-Driven+Architectures;Studying+CQRS+%26+Event+Sourcing;Handling+Asynchronous+Event+Streams;Managing+Polyglot+Persistence+Layers;Optimizing+High-Throughput+Databases;Implementing+Distributed+Caching;Working+With+High-Concurrency+Pools;Ensuring+Ultimate+Data+Consistency;Designing+Fault-Tolerant+Topologies" alt="Typing SVG 3" />
+  <br />
+  <!-- Engine 4: Cloud-Native & Infrastructure Operations (Pink) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=800&color=FF79C6&center=true&vCenter=true&width=850&lines=Cloud-Native+Ecosystem+Learner;Containerizing+Applications+With+Docker;Exploring+Kubernetes+Orchestration;Structuring+Infrastructure+As+Code;Setting+Up+Automated+CI%2FCD+Pipelines;Implementing+End-to-End+Observability;Tracking+Metrics+Via+Prometheus+%26+Grafana;Managing+Service+Mesh+Environments;Configuring+Resilient+API+Gateways;Securing+Network+Bridge+Topologies" alt="Typing SVG 4" />
+  <br />
+  <!-- Engine 5: Generative AI & Agentic Ecosystems (Orange) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=800&color=FFB86C&center=true&vCenter=true&width=850&lines=Integrating+AI+With+Core+Software;Exploring+Agentic+Workflows;Building+Multi-Agent+Systems;Implementing+Model+Context+Protocol+(MCP);Studying+Agent+Client+Protocol+(ACP);Customizing+Retrieval-Augmented+Generation;Vector+Storage+%26+Index+Tuning;Interfacing+With+Local+Open-Source+LLMs;Coordinated+Multi-Modal+AI+Pipelines;Engineering+Future-Proof+Systems" alt="Typing SVG 5" />
 </p>
 
 <!-- Row 1: Dynamic Repo & Profile Metrics -->
