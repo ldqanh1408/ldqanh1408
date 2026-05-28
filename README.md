@@ -1,8 +1,13 @@
 <h1 align="center">Hi there, I'm Lê Đắc Quốc Anh! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Aspiring+Solution+Architect;Distributed+Systems+%26+Microservices+Enthusiast;High-Concurrency+System+Designer;Cloud-Native+%26+Event-Driven+Architecture;Designing+For+High+Availability+%26+Fault+Tolerance;Obsessed+With+Scalability+%26+Ultra-Low+Latency;CQRS%2C+Event+Sourcing+%26+Saga+Patterns;Exploring+Multi-Agent+Orchestration+%26+MCP;Bridging+Algorithmic+Efficiency+With+Enterprise+Scale;Polyglot+Persistence+%26+Distributed+Caching" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00F2FE&center=true&vCenter=true&width=850&lines=Aspiring+Solution+Architect;Distributed+Systems+Expert;High-Concurrency+System+Designer;Cloud-Native+Infrastructure+Engineer" alt="Typing SVG 1" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=7AA2F7&center=true&vCenter=true&width=850&lines=Mastering+CQRS+%26+Event+Sourcing;Executing+Saga+Distributed+Transactions;Optimizing+Low-Latency+Data+Pipelines;Tuning+High-Throughput+Load+Buffers" alt="Typing SVG 2" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=50FA7B&center=true&vCenter=true&width=850&lines=Exploring+Multi-Agent+Orchestration;Implementing+Model+Context+Protocol+(MCP);Bridging+Algorithmic+Efficiency+With+Scale;Enforcing+Zero-Trust+System+Architectures" alt="Typing SVG 3" />
 </p>
+
 <!-- Row 1: Dynamic Repo & Profile Metrics -->
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=ldqanh1408&color=00f2fe&style=flat-square&label=PROFILE+VIEWS+⚡" alt="Views" />
@@ -33,16 +38,15 @@
 
 ---
 
-## 🧠 About Me & Architectural Vision
-- 🎓 **Education & Foundational Track:** Third-year Software Engineering student at **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**.
+## 🧠 About Me
+- 🎓 **Education:** Third-year Software Engineering student at **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**.
   - 📍 Based in Thu Duc, Ho Chi Minh City | Expected Graduation: June 2027 | Current GPA: **3.29 / 4.0**.
-- 🏆 **Algorithmic Problem Solving (The Foundation of Optimization):**
+- 🏆 **Algorithmic Foundation:** 
   - 🥈 **Second Prize** – ICPC Vietnam Southern Provincial Contest (2024).
   - 🥉 **Third Prize** – National Olympiad in Informatics for Students (OLP) (2024).
-  - Leveraging deep competitive programming foundations to solve complex system bottlenecks and optimize distributed algorithms.
-- 🎯 **Core Focus:** Designing highly scalable, fault-tolerant distributed topologies, microservices governance, and data consistency patterns under high-concurrency pressures.
-- 🤖 **AI System Integration:** Engineering production-grade integrations between Large Language Models and backend enterprise systems via Model Context Protocol (MCP) and Multi-Agent orchestration.
-
+  - Solid backgrounds in data structures and competitive programming, utilized to engineer optimized and high-performance software solutions.
+- 💻 **Engineering Interests:** Building robust backend services, scaling data communication layers, and designing clean, decoupled codebases.
+- 🤖 **Future-Proofing:** Actively experimenting with Agentic Workflows, Multi-Agent orchestration, and the Model Context Protocol (MCP) ecosystem.
 ---
 
 ## 🏛️ Architectural Philosophies & Competencies
@@ -115,26 +119,21 @@
 </p>
 
 ---
-
-## 🚀 Architectural Case Studies (Projects)
+## 🚀 Featured Projects
 
 ### 🪐 [Stealing from Paradise](https://github.com/ldqanh1408)
 > **High-Concurrency Distributed Flash Sale Ecosystem**
-- **Architectural Intent:** Designed a decoupled, 9-module system to handle massive write-heavy concurrent peaks while ensuring strict data isolation and zero single points of failure.
-- **State Integrity:** Implemented **CQRS and Event Sourcing** patterns using **Axon Framework** to build an immutable audit log, guaranteeing ultimate consistency across billing and inventory domains.
-- **Traffic Shaping & Load Buffering:** Deployed **Apache Kafka** to isolate client-facing ingestions from core downstream state machine mutations, absorbing high-velocity request spikes seamlessly.
-- **Topology:** API Gateway $\rightarrow$ Service Mesh $\rightarrow$ Distributed Storage engines synced via Event Bus.
+- **Core Engineering:** Developed a decoupled, 9-module microservices ecosystem featuring API Gateway, Identity, Order, Payment, Flash Sale, and Notification services.
+- **Data Consistency:** Leveraged **Axon Framework** to practice strict **CQRS and Event Sourcing** patterns, securing system-wide transactional state integrity.
+- **Traffic Management:** Deployed **Apache Kafka** as a high-throughput load buffer to efficiently handle incoming request spikes during simulated high-concurrency sale events.
 
 ### 📝 [AI-Integrated Smart Journal System](https://github.com/ldqanh1408)
 > **Intelligent Multi-Modal Knowledge Engine & Reactive Architecture**
-- **System Orchestration:** Designed a non-blocking reactive pipeline via **Spring WebFlux** to manage asynchronous data streams originating from heterogeneous multi-modal model clusters (LLaMA-cpp, BLIP, Faster-Whisper).
-- **Context Management:** Built an advanced **Retrieval-Augmented Generation (RAG)** pipeline utilizing **ChromaDB** for semantic context mapping, optimizing vector indexing for near real-time ingestion.
-- **Architectural Strategy:** Decoupled compute-heavy AI inference tasks from core telemetry storage to ensure maximum resource availability and horizontal scalability.
-
+- **Pipeline Orchestration:** Built a non-blocking reactive application using **Spring WebFlux** to manage multi-modal data streams (text, audio, image).
+- **AI Pipelines:** Integrated local open-source models (**LLaMA-cpp, BLIP, Faster-Whisper**) coordinated with a custom **Retrieval-Augmented Generation (RAG)** pipeline using **ChromaDB** vector storage.
 ---
 
 ## 📊 GitHub Analytics, Trophies & Insights
-
 
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=ldqanh1408&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="ldqanh1408 views" />
@@ -159,15 +158,15 @@
 
 ---
 
-## ✉️ Contact & Professional Engagement
+## ✉️ Contact & Engagement
 
-I am seeking **Software Engineer Intern / Fresher** positions with an immersive track toward **System Architecture**. I aim to work on high-availability infrastructures, complex integration layers, and event-driven backends.
+I am open to **Software Engineer Intern / Fresher** opportunities where I can apply strong problem-solving skills and backend fundamentals to meaningful, scale-driven production products.
 
 <p align="left">
   <a href="mailto:n23dccn139@student.ptithcm.edu.vn">
     <img src="https://img.shields.io/badge/Academic_Email-n23dccn139%40student.ptithcm.edu.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Architectural_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
