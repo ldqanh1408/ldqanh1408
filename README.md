@@ -1,11 +1,34 @@
 <h1 align="center">Hi there, I'm Lê Đắc Quốc Anh! 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Aspiring+Solution+Architect;Distributed+Systems+%26+Microservices+Enthusiast;High-Concurrency+System+Designer;Leveraging+Algorithmic+Patterns+for+Scale" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <a href="https://github.com/ldqanh1408">
-    <img src="https://img.shields.io/github/followers/ldqanh1408?label=Followers&style=social" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Aspiring+Solution+Architect;Distributed+Systems+%26+Microservices+Enthusiast;High-Concurrency+System+Designer;Leveraging+Algorithmic+Patterns+for+Scale;CQRS+%26+Event+Sourcing+Practitioner;Multi-Agent+Systems+%26+MCP+Explorer" alt="Typing SVG" />
+</p>
+
+<!-- Row 1: Dynamic Repo & Profile Metrics -->
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=ldqanh1408&color=00f2fe&style=flat-square&label=PROFILE+VIEWS+⚡" alt="Views" />
+  <a href="https://github.com/ldqanh1408?tab=followers">
+    <img src="https://img.shields.io/github/followers/ldqanh1408?label=Followers&style=flat-square&color=007acc" alt="Followers" />
+  </a>
+  <a href="https://github.com/ldqanh1408?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ldqanh1408?label=Total+Stars&style=flat-square&color=ffb86c" alt="Stars" />
+  </a>
+  <img src="https://img.shields.io/github/commit-activity/m/ldqanh1408?label=Monthly+Commits&style=flat-square&color=50fa7b" alt="Commit Activity" />
+</p>
+
+<!-- Row 2: Professional Networks & Competitive Platforms -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:n23dccn139@student.ptithcm.edu.vn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://codeforces.com" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-B92B27?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
