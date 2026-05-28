@@ -273,18 +273,17 @@
 
 ### ⚡ Contribution & Streak Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="49%" />&nbsp;
   <img src="https://streak-stats.demolab.com?user=ldqanh1408&theme=tokyonight" alt="GitHub Streak" width="49%" />
 </p>
 
 ### 📊 Language Distribution & Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldqanh1408&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldqanh1408&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" width="49%" />&nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ldqanh1408&theme=tokyonight" alt="GitHub Activity Graph" width="49%" />
 </p>
 
 ---
-
 ## ✉️ Contact & Engagement
 
 I am open to **Software Engineer Intern / Fresher** opportunities where I can apply strong problem-solving skills and backend fundamentals to meaningful, scale-driven production products.
