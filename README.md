@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Lê Đắc Quốc Anh! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Aspiring+Solution+Architect;Distributed+Systems+%26+Microservices+Enthusiast;High-Concurrency+System+Designer;Leveraging+Algorithmic+Patterns+for+Scale;CQRS+%26+Event+Sourcing+Practitioner;Multi-Agent+Systems+%26+MCP+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Aspiring+Solution+Architect;Distributed+Systems+%26+Microservices+Enthusiast;High-Concurrency+System+Designer;Cloud-Native+%26+Event-Driven+Architecture;Designing+For+High+Availability+%26+Fault+Tolerance;Obsessed+With+Scalability+%26+Ultra-Low+Latency;CQRS%2C+Event+Sourcing+%26+Saga+Patterns;Exploring+Multi-Agent+Orchestration+%26+MCP;Bridging+Algorithmic+Efficiency+With+Enterprise+Scale;Polyglot+Persistence+%26+Distributed+Caching" alt="Typing SVG" />
 </p>
-
 <!-- Row 1: Dynamic Repo & Profile Metrics -->
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=ldqanh1408&color=00f2fe&style=flat-square&label=PROFILE+VIEWS+⚡" alt="Views" />
@@ -136,18 +135,19 @@
 
 ## 📊 GitHub Analytics, Trophies & Insights
 
+
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=ldqanh1408&color=7aa2f7&style=for-the-badge&label=ARCHITECTURE+AUDITS+⚡" alt="ldqanh1408 views" />
+  <img src="https://komarev.com/ghvc/?username=ldqanh1408&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="ldqanh1408 views" />
 </p>
 
 ### 🏆 GitHub Trophies (Ecosystem Achievements)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ldqanh1408&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ldqanh1408&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </p>
 
 ### ⚡ Contribution & Streak Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com?user=ldqanh1408&theme=tokyonight" alt="GitHub Streak" width="49%" />
 </p>
 
