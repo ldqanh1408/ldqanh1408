@@ -28,53 +28,86 @@
 ## 🛠️ Hardcore Tech Stack
 
 ### 🚀 Languages & Core Development
+---
+
+### ☕ Enterprise Java & JVM Ecosystem
 <p align="left">
-  <img src="https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 25" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Micronaut-171E2F?style=for-the-badge&logo=micronaut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vert.x-782B90?style=for-the-badge&logo=eclipsevert.x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axon_Framework-000000?style=for-the-badge&logo=enterprise&logoColor=white" />
 </p>
 
-### 🌐 Backend Architecture & Distributed Systems
+### 🐍 Python, Big Data & Deep Learning Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring WebFlux" />
-  <img src="https://img.shields.io/badge/Axon_Framework-000000?style=for-the-badge&logo=enterprise&logoColor=white" alt="Axon" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/gRPC-244D7F?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=for-the-badge&logo=apacheflink&logoColor=white" />
 </p>
 
-> **Architectural Patterns Applied:** CQRS 🏛️, Event Sourcing 📜, Saga Pattern 🔄, API Gateway 🚪, JWT Security 🔑, OOP Design 💎, RESTful APIs 🌐.
-
-### 🤖 Advanced AI & Agentic Ecosystem
+### 🤖 Generative AI & Multi-Agent Orchestration
 <p align="left">
-  <img src="https://img.shields.io/badge/Agentic_Workflows-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="Agentic Workflows" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-4FFFB0?style=for-the-badge&logo=agent&logoColor=black" alt="Multi-Agent" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Agent_Client_Protocol_(ACP)-005571?style=for-the-badge&logo=google-cloud&logoColor=white" alt="ACP" />
-  <img src="https://img.shields.io/badge/Claude_Code-D9381E?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-0052CC?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Storage Engines
+### ⚡ Distributed Messaging & Event Streaming
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-  <img src="https://img.shields.io/badge/GraphDB-1182C4?style=for-the-badge&logo=neo4j&logoColor=white" alt="GraphDB" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Pulsar-181717?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244D7F?style=for-the-badge&logo=grpc&logoColor=white" />
 </p>
 
-### ⚙️ DevOps & Cloud Environments
+### 🌐 Frontend & JavaScript/TypeScript Runtimes
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Project_IDX_(Firebase)-4285F4?style=for-the-badge&logo=google-firebase&logoColor=white" alt="Project IDX" />
-  <img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Codespaces" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cache Polyglot
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+</p>
+
+### 🛠️ Cloud Native, DevOps & Orchestration
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+### 🧪 Testing & Quality Assurance
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-333333?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 
 ---
@@ -97,27 +130,31 @@
 
 ---
 
-## 📊 GitHub Analytics & Insights
+## 📊 GitHub Analytics, Trophies & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ldqanh1408&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://komarev.com/ghvc/?username=ldqanh1408&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS+⚡" alt="ldqanh1408 views" />
 </p>
 
+### 🏆 GitHub Trophies (Ecosystem Achievements)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldqanh1408&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ldqanh1408&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" width="100%" />
 </p>
 
+### ⚡ Contribution & Streak Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ldqanh1408&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ldqanh1408&theme=tokyonight" alt="GitHub Streak" width="49%" />
+</p>
+
+### 📊 Language Distribution & Activity Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldqanh1408&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ldqanh1408&theme=tokyonight" alt="GitHub Activity Graph" width="49%" />
+</p>
 ---
 
-## 💻 Battle Station (Dev Rig)
-- **Laptop:** MSI Cyborg 15 A12VE
-- **Memory:** Upgraded to **32GB DDR5 Samsung RAM (5600 MHz)** dual-channel to effortlessly run multi-node microservices clusters and local LLMs simultaneously 🚀.
-
 ---
-
-## 🍿 Fun Fact
-- When I'm not fighting race conditions or fine-tuning AI workflows, I enjoy watching **Romcom Anime series & movies** (Big fan of *Chuunibyou demo Koi ga Shitai!*) 🎬.
 
 ---
 
